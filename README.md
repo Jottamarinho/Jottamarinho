@@ -4,18 +4,7 @@
 - 💻 Estudando HTML e Css
 - ✉ Contate-me: donsr922@gmail.com
 
-<div>
-  <a href="https://github.com/Jottamarinho">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jottamarinho&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
-  <img heigth="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottamarinho&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="jotta-HTML" Height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-    <img align="center" alt="jotta-CSS3" Height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-    <img align="center" alt="jotta-PS" Height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-  </div>
-   
+
   ##
 
    <div>
