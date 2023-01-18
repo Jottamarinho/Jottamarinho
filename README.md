@@ -1,11 +1,19 @@
 ### Holla! Eu sou Jotta 👋
 
 - 📓 Aluno do Instituto Federal de Alagoas - Campus Penedo
-- 💻 Estudando HTML e Css
+- 💻 Iniciante, desenvolvedor front-end.
 - ✉ Contate-me: donsr922@gmail.com
 
 
   ##
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jottamarinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jotta Marinho github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottamarinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+##
 
    <div>
   <a href="Email:donsr922@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -15,3 +23,11 @@
   <a href="https://www.instagram.com/jottamarinhoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
      <a href="https://www.twitch.tv/jottdark" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
    </div>
+
+
+
+### Main skills:
+  <div>
+  <a href="HTML5" target"_blank"><img src="https://cdn.discordapp.com/attachments/1060190806000017511/1065264711429541958/65687_html_logo_html5_5_five_icon.png" Width="60"></a>
+  <a href="CSS3" target"_blank"><img src="https://cdn.discordapp.com/attachments/1060190806000017511/1065264693045887037/294692_css3_icon.png" Width="60"></a>
+  <a href="CSS3" target"_blank"><img src="https://cdn.discordapp.com/attachments/1060190806000017511/1065265701167845396/4373282_adobe_logo_logos_photoshop_icon.png" Width="50"></a>
