@@ -28,7 +28,6 @@
    </div>
 
 
-
 ### Main skills:
   <div>
   <a href="HTML5" target"_blank"><img src="https://cdn.discordapp.com/attachments/1060190806000017511/1065264711429541958/65687_html_logo_html5_5_five_icon.png" Width="60"></a>
