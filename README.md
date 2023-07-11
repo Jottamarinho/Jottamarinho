@@ -33,3 +33,9 @@
   <a href="HTML5" target"_blank"><img src="https://cdn.discordapp.com/attachments/1060190806000017511/1065264711429541958/65687_html_logo_html5_5_five_icon.png" Width="60"></a>
   <a href="CSS3" target"_blank"><img src="https://cdn.discordapp.com/attachments/1060190806000017511/1065264693045887037/294692_css3_icon.png" Width="60"></a>
   <a href="CSS3" target"_blank"><img src="https://cdn.discordapp.com/attachments/1060190806000017511/1065265701167845396/4373282_adobe_logo_logos_photoshop_icon.png" Width="50"></a>
+
+div align="center">
+
+  ![Snake animation](https://github.com/Jottamarinho/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
