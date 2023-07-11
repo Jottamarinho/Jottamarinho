@@ -1,6 +1,6 @@
 ### Holla! Eu sou Jotta 👋
 
-- 📓 Aluno do Instituto Federal de Alagoas - Campus Penedo
+- 📓 Tecnico em Química - UFAL
 - 💻 Iniciante, desenvolvedor front-end.
 - ✉ Contate-me: donsr922@gmail.com
 
@@ -10,10 +10,10 @@
 
 <div align="center">  
   
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=Jottamarinho&show_icons=true&count_private=true&hide_border=true&title_color=101010&icon_color=101010&text_color=101010&bg_color=D3D1D1" alt="Jotta Marinho github stats" /> 
+<img width="365px" src="https://github-readme-stats.vercel.app/api?username=Jottamarinho&show_icons=true&count_private=true&hide_border=true&title_color=101010&icon_color=101010&text_color=101010&bg_color=D3D1D1" alt="Jotta Marinho github stats" /> 
   
   
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottamarinho&layout=compact&hide_border=true&title_color=101010&text_color=101010&bg_color=D3D1D1" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottamarinho&layout=compact&hide_border=true&title_color=101010&text_color=101010&bg_color=D3D1D1" />
 </div>
 
 ##
