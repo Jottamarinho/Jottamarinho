@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=19&duration=4000&pause=900&color=67F7C3&width=435&lines=Hello%2C+my+name+is+Jo%C3%A3o+Paulo+Marinho+Santos;I'm+18+years+old+%F0%9F%98%83;I'm+studying+to+become+a+full+stack+developer.)](https://git.io/typing-svg)
 
-📓 Tecnico em Química - IFAL <br>
-💻 Iniciante, desenvolvedor front-end <br>
+💻 Desenvolvedor front-end <br>
 ✉ Contate-me: donsr922@gmail.com
 
 
