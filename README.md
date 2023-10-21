@@ -2,11 +2,15 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://media.discordapp.net/attachments/968993207088201758/1163994077340110858/238154544-9acbb44e-98f8-4f83-82f7-c19408c161cd.png?ex=654198f6&is=652f23f6&hm=032667ea8166e056755db7ee91e41f025430b6dea3f147aa1890b7a42418de11&=" />
 &nbsp;&nbsp;&nbsp;
 
+
 <p align="center">I ❤️ Olá, me chamo João Paulo <br> Tenho 18 anos e sou desenvolvedor front-end </p>&nbsp;
 
+
+
 <div  align="center" style="margin-bottom:100px">
-<img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jottamarinho&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottamarinho&layout=compact&hide_border=true&title_color=D3D1D1&text_color=D3D1D1&bg_color=101010" />
+ 
+<img  width=46% align= "center" src= "https://github-readme-streak-stats.herokuapp.com?user=Jottamarinho&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottamarinho&layout=compact&hide_border=true&title_color=D3D1D1&text_color=D3D1D1&bg_color=000000" />
  </div>
  
  &nbsp;
@@ -45,4 +49,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
