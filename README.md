@@ -3,14 +3,15 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ Olá, me chamo João Paulo <br> Tenho 18 anos e sou desenvolvedor front-end </p>&nbsp;
+<p align="center">I ❤️ Olá, me chamo João Paulo <br> Tenho 18 anos <br> No momento sou estudante de Sistemas de Informação - UFAL </p>&nbsp;
 
 
 
 <div  align="center" style="margin-bottom:100px">
  
-<img  width=46% align= "center" src= "https://github-readme-streak-stats.herokuapp.com?user=Jottamarinho&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottamarinho&layout=compact&hide_border=true&title_color=D3D1D1&text_color=D3D1D1&bg_color=000000" />
+<img  width=50% align= "center" src= "https://github-readme-streak-stats.herokuapp.com?user=Jottamarinho&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card" />
+
+<img  width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottamarinho&layout=compact&hide_border=true&title_color=D3D1D1&text_color=D3D1D1&bg_color=000000" />
  </div>
  
  &nbsp;
@@ -32,8 +33,8 @@
 #### Studying in this moment:
 
   <div>
-  <a href="JavaScrip" target"_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
-  <a href="React" target"_blank"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" ></a>
+  <a href="JavaScript" target"_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+  <a href="Python" target"_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" ></a>
   </div>
   
 
