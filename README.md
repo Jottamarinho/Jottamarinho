@@ -13,11 +13,6 @@
 <br>
 
 
-<p align="left">
-  <a href = "mailto: isissantos8425@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isis-gon%C3%A7alves-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-
 <br>
 
  <div>
